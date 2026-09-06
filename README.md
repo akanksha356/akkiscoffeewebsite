@@ -22,7 +22,7 @@ npm run dev
 ```
 
 Open the local URL shown by Vite, usually `http://localhost:5173/`.
-UI `https://akkiscoffeewebsite-a1y08el03-portfolio-a81e.vercel.app/`
+UI `https://akkiscoffeewebsite.vercel.app`
 ## Production build
 
 Create an optimized production build:
